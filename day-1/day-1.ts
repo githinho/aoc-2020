@@ -1,6 +1,6 @@
-const fs = require("fs");
-const text = fs.readFileSync("./input.txt").toString("UTF-8");
-const inputNumbers = text.split("\n").map(it => Number(it));
+import { loadInputFile } from "../file-reader"
+
+const inputNumbers = loadInputFile("./input.txt").map((it: string) => Number(it));
 
 for (let i = 0; i < inputNumbers.length; i++) {
     for (let j = i + 1; j < inputNumbers.length; j++) {
