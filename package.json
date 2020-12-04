@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "day-1": "cd day-1 && node day-1.js",
     "day-2": "cd day-2 && node day-2.js",
-    "day-3": "cd day-3 && node day-3.js"
+    "day-3": "cd day-3 && node day-3.js",
+    "day-4": "cd day-4 && node day-4.js"
   },
   "repository": {
     "type": "git",
