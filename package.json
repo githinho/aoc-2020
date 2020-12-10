@@ -10,7 +10,8 @@
     "day-3": "cd day-3 && node day-3.js",
     "day-4": "cd day-4 && node day-4.js",
     "day-5": "cd day-5 && node day-5.js",
-    "day-6": "cd day-6 && node day-6.js"
+    "day-6": "cd day-6 && node day-6.js",
+    "day-7": "cd day-7 && node day-7.js"
   },
   "repository": {
     "type": "git",
